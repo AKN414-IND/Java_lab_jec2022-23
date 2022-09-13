@@ -3,8 +3,8 @@ purpose of the repository is to give a reference to the students on the Object O
 Java lab work of JEC CSE A 
 
 
-[![](https://img.shields.io/badge/Programs%20by-Arun%20K%20Nair-blue)](mailto:arunknair.cse21@jecc.ac.in)
-[![](https://img.shields.io/badge/Programs%20by-Alwin%20Mathew-orange)](mailto:alwinmathew.cse21@jecc.ac.in)
+[![](https://img.shields.io/badge/Programs%20by-Arun%20K%20Nair-orange)](mailto:arunknair.cse21@jecc.ac.in)
+[![](https://img.shields.io/badge/Programs%20by-Alwin%20Mathew-white)](mailto:alwinmathew.cse21@jecc.ac.in)
 
 
 Authors - Arun K Nair 
