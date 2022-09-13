@@ -5,14 +5,9 @@ Java lab work of JEC CSE A
 
 [![](https://img.shields.io/badge/Programs%20by-Arun%20K%20Nair-orange)](mailto:arunknair.cse21@jecc.ac.in)
 [![](https://img.shields.io/badge/Programs%20by-Alwin%20Mathew-white)](mailto:alwinmathew.cse21@jecc.ac.in)
-
-
-Authors - Arun K Nair 
-       - Alwin Mathew
        
        
-       
-       
+ ----------------------------------------------------------------------------------------------------------------------         
 Teachers incharge / Mentors - Ms . Sona Shaju
                             - Ms . Lufiya George
 
