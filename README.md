@@ -10,22 +10,24 @@ Java lab work of JEC CSE A
        
        
  ----------------------------------------------------------------------------------------------------------------------         
-                                  Teachers incharge / Mentors 
+                                 Teachers incharge / Mentors 
 -----------------------------------------------------------------------------------------------------------------------
 Ms . Sona Shaju
 
 Ms . Lufiya George
 
 _________________________________________________________________________________________________________________________
-                                   Programs List
+                                  Programs List
 ---------------------------------------------------------------------------------------------------------------------
-     Program 1    - hello world program
-     Program 2    - odd or even (no scanner used input give in program itself )
-     program 3    - print numbers from 1 to 10 (no scanner used input give in program itself )
-     program 4    - prime or not (no scanner used input give in program itself )
-     program 5    - fibonacci series (no scanner used input give in program itself )
-     Program 6    - odd or even (used scanner to receive input from user )
-     program 7    - prime or not (used scanner to receive input from user )
-     program 8    - fibonacci series (used scanner to receive input from user )
+     Program      - program content 
+---------------------------------------------------------------------------------------------------------
+    | Program 1    |hello world program|
+    | Program 2    | odd or even (no scanner used input give in program itself )|
+    | program 3    | print numbers from 1 to 10 (no scanner used input give in program itself )|
+    | program 4    | prime or not (no scanner used input give in program itself )|
+    | program 5    | fibonacci series (no scanner used input give in program itself )|
+    | Program 6    | odd or even (used scanner to receive input from user )|
+    | program 7    | prime or not (used scanner to receive input from user )|
+    | program 8    | fibonacci series (used scanner to receive input from user )|
      
      
