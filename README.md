@@ -19,8 +19,8 @@ Ms . Lufiya George
 _________________________________________________________________________________________________________________________
                                   Programs List
 ---------------------------------------------------------------------------------------------------------------------
-     Program      - program content 
----------------------------------------------------------------------------------------------------------
+    | Program      | program content |
+    | ------------- |:--------------:|
     | Program 1    |hello world program|
     | Program 2    | odd or even (no scanner used input give in program itself )|
     | program 3    | print numbers from 1 to 10 (no scanner used input give in program itself )|
