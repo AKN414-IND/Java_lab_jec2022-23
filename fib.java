@@ -4,13 +4,13 @@ public class Program5 {
         int a = 0, b = 1, c, i, l = 10;
         System.out.println("The fibonacci sequence");
 
-        System.out.println(a);
-        System.out.println(b);
-        for (i = 0; i < l - 2; i++) {
+        System.out.print(a);
+        System.out.print("," + b);
+        for (i = 2; i < l; i++) {
             c = a + b;
             a = b;
             b = c;
-            System.out.println(c);
+            System.out.print("," + c);
         }
     }
 
