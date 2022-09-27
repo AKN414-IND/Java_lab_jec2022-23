@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program6 {
+public class OddorEvenScan {
     public static void main(String[] args) {
         System.out.print("Enter the number:");
         Scanner sc = new Scanner(System.in);
