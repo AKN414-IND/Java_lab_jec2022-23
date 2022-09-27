@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program8 {
+public class FibScan {
 
     public static void main(String args[]) {
         int a = 0, b = 1, c, i;
