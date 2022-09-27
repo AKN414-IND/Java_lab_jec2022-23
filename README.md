@@ -15,14 +15,14 @@ Ms . Lufiya George
 
 # Programs List
 
-| Program number    | program content |
+| Program fileName    | program content |
 | -------------|:-------------------------------------------------------------------------:|
-| Program 1    |hello world program                                                        |
-| Program 2    | odd or even (no scanner used input give in program itself )               |
-| program 3    | print numbers from 1 to 10 (no scanner used input give in program itself )|
-| program 4    | prime or not (no scanner used input give in program itself )              |
-| program 5    | fibonacci series (no scanner used input give in program itself )          |
-| Program 6    | odd or even (used scanner to receive input from user )                    |
-| program 7    | prime or not (used scanner to receive input from user )                   | 
-| program 8    | fibonacci series (used scanner to receive input from user )               |
+| PrintHello.java   |hello world program                                                        |
+| oddoreven.java    | odd or even (no scanner used input give in program itself )               |
+| printonetoten.java   | print numbers from 1 to 10 (no scanner used input give in program itself )|
+| prime.java    | prime or not (no scanner used input give in program itself )              |
+| fib.java    | fibonacci series (no scanner used input give in program itself )          |
+| OddorEvenScan.java    | odd or even (used scanner to receive input from user )                    |
+| PrimeScan.java    | prime or not (used scanner to receive input from user )                   | 
+| FibScan.java   | fibonacci series (used scanner to receive input from user )               |
 --------------------------------------------------------------------------------------------
