@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program7 {
+public class PrimeScan {
     public static void main(String args[]) {
         int i, f = 0;
         System.out.print("Enter the number:");
