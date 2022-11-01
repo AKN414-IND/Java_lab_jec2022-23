@@ -1,4 +1,4 @@
-public class Program4 {
+public class Prime {
     public static void main(String args[]) {
         int i, f = 0, num = 5;
 

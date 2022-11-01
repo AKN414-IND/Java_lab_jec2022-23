@@ -1,5 +1,5 @@
 
-public class Program5 {
+public class fib {
     public static void main(String args[]) {
         int a = 0, b = 1, c, i, l = 10;
         System.out.println("The fibonacci sequence");

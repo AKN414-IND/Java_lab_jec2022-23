@@ -1,12 +1,9 @@
 import java.util.Scanner;
 
 class palindromeNum {
-    public static void main(String args[]) {
-        int n, rev = 0, rem;
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the number");
-        n = sc.nextInt();
-        int temp = n;
+    public static String pal(int n) {
+        int temp = n, rem, rev = 0;
+        String s = "";
         while (n != 0) {
             rem = n % 10;
             rev = rev * 10 + rem;
@@ -14,9 +11,20 @@ class palindromeNum {
 
         }
         if (temp == rev) {
-            System.out.println("The number is palindrome");
+            s = "palindrome";
+            return s;
         } else {
-            System.out.println("The number is not palindrome");
+            s = "not palindrome";
+            return s;
         }
+
+    }
+
+    public static void main(String args[]) {
+        int n;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number");
+        n = sc.nextInt();
+        System.out.println("the number is " + pal(n));
     }
 }
