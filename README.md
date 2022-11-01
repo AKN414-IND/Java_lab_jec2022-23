@@ -12,17 +12,3 @@ Java lab work of JEC CSE A
 Ms . Sona Shaju               
 
 Ms . Lufiya George            
-
-# Programs List
-
-| Program fileName    | program content |
-| -------------|:-------------------------------------------------------------------------:|
-| PrintHello.java   |hello world program                                                        |
-| oddoreven.java    | odd or even (no scanner used input give in program itself )               |
-| printonetoten.java   | print numbers from 1 to 10 (no scanner used input give in program itself )|
-| prime.java    | prime or not (no scanner used input give in program itself )              |
-| fib.java    | fibonacci series (no scanner used input give in program itself )          |
-| OddorEvenScan.java    | odd or even (used scanner to receive input from user )                    |
-| PrimeScan.java    | prime or not (used scanner to receive input from user )                   | 
-| FibScan.java   | fibonacci series (used scanner to receive input from user )               |
---------------------------------------------------------------------------------------------
