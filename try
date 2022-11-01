@@ -1,0 +1,102 @@
+public class bank {
+    bank() {
+        System.out.println("Welcome to the bank management system!");
+        String name = " ";
+        String password = " ";
+        int balance = 0;
+        int option = 0;
+        int amount = 0;
+        Scanner input = new Scanner(System.in);
+
+    }
+
+    static void showMenu() {
+        System.out.println("1. Create an account");
+        System.out.println("2. Check the balance");
+        System.out.println("3. Deposit");
+        System.out.println("4. Withdraw");
+        System.out.println("5. Exit");
+        System.out.println("Please enter your choice: ");
+    }
+
+    static void createAccount() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter your name: ");
+        String name = input.next();
+        System.out.println("Please enter your password: ");
+        String password = input.next();
+        System.out.println("Please enter your balance: ");
+        double balance = input.nextDouble();
+        System.out.println("Please enter your phone number: ");
+        String phone = input.next();
+        System.out.println("Please enter your address: ");
+        String address = input.next();
+        input.close();
+    }
+
+    static void checkBalance() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter your name: ");
+        String name = input.next();
+        System.out.println("Please enter your password: ");
+        String password = input.next();
+        System.out.println("Your balance is: ");
+        input.close();
+    }
+
+    static void deposit() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter your name: ");
+        String name = input.next();
+        System.out.println("Please enter your password: ");
+        String password = input.next();
+        System.out.println("Please enter the amount you want to deposit: ");
+        double deposit = input.nextDouble();
+        System.out.println("Your balance is: ");
+        input.close();
+    }
+
+    static void withdraw() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter your name: ");
+        String name = input.next();
+        System.out.println("Please enter your password: ");
+        String password = input.next();
+        System.out.println("Please enter the amount you want to withdraw: ");
+        double withdraw = input.nextDouble();
+        System.out.println("Your balance is: ");
+        input.close();
+    }
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        char q = 'y';
+        while (q == 'y') {
+            showMenu();
+            int option = input.nextInt();
+            switch (option) {
+                case 1:
+                    createAccount();
+                    break;
+                case 2:
+                    checkBalance();
+                    break;
+                case 3:
+                    deposit();
+                    break;
+                case 4:
+                    withdraw();
+                    break;
+                case 5:
+                    System.out.println("Thank you for using the bank management system!");
+                    q = 'y';
+                    break;
+                default:
+                    System.out.println("Invalid input!");
+                    break;
+            }
+        }
+        input.close();
+
+    }
+}
