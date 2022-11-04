@@ -26,5 +26,4 @@ public class vowelcounter {
         sr.close();
 
     }
-
 }

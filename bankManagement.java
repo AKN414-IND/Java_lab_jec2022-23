@@ -15,12 +15,8 @@ public class bankManagement {
 
     /* creat a method to show the menu */
     public void showMenu() {
-        System.out.println("1. Create an account");
-        System.out.println("2. Check the balance");
-        System.out.println("3. Deposit");
-        System.out.println("4. Withdraw");
-        System.out.println("5. Exit");
-        System.out.println("Please enter your choice: ");
+        System.out.println(
+                "1. Create an account \n 2. Check the balance \n3. Deposit\n 4. Withdraw\n5. Exit\n Please enter your choice: ");
     }
 
     /* creat a method to create an account */
